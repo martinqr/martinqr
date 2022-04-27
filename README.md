@@ -9,7 +9,7 @@
 ##### BIO
 
 - 🏢 I'm currently finishing my Web Development course and starting JavaScript at **Coderhouse**
-- 💅 Designed: Android 22 + Starwars Website concept - [Android22](https://martinqr.github.io/android22bt/)
+- 💅 Designed: Android 22 + Starwars Website Concept - [Android22](https://martinqr.github.io/android22bt/)
 
 ##### LANGUAGES & TOOLS
 
