@@ -11,7 +11,7 @@
 - 🏢 I'm currently finishing my Web Development course and starting JavaScript at **Coderhouse**
 - 💅 Designed: Android 22 + Starwars Website concept - [Android22](https://martinqr.github.io/android22bt/)
 
-##### SKILLS
+##### LANGUAGES & TOOLS
 
 - 👨‍💻 HTML
 - ⚙️ BOOTSTRAP
