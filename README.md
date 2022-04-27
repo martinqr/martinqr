@@ -4,15 +4,28 @@
 
 ##### PORTFOLIO
 
-- ✨ Check my [Portfolio](https://martinqr.github.io/portfoliomz/);
+- ✨ Check out my [Portfolio](https://martinqr.github.io/portfoliomz/);
 
 ##### BIO
 
-- 🏢 I'm currently working at **Instrument Designer**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🏢 I'm currently finishing my web development course and starting JavaScript at **Coderhouse**
+- 💅 Designed: Android 22 + Starwars Website concept - [Android22](https://martinqr.github.io/android22bt/)
+
+##### SKILLS
+
+- 👨‍💻 HTML
+- ⚙️ BOOTSTRAP
+- 😺 GIT, GITHUB
+- 👁️ SASS, CSS
+- 📌 FIGMA
+
+##### ROADMAP
+
+- ✅ Web Development
+- ⬜ JavaScript
+- ⬜ ReactJs
+- ⬜ Backend Development
+
+##### CONTACT
+
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/mzalazar/)
