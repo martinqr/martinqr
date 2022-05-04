@@ -4,7 +4,7 @@
 
 ##### PORTFOLIO
 
-- ✨ Check out my [Portfolio](https://martinqr.github.io/portfoliomz/);
+- ✨ Check out my [Portfolio](https://martinzalazar.vercel.app/);
 
 ##### BIO
 
