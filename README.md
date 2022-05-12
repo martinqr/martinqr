@@ -1,6 +1,6 @@
 ### Hello I'm Martin 👋
 
-#### I'm a Full-Stack Developer Student in Coderhouse, Argentina.
+#### I'm a Full Stack Developer Student in Coderhouse, Argentina.
 
 ##### PORTFOLIO
 
